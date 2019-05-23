@@ -1,0 +1,38 @@
+{
+  "pokedex": [
+    {
+      "id": 1,
+      "Pokémon": "Bulbasaur",
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "id": 2,
+      "Pokémon": "Ivysaur",
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pokémon": "Venusaur",
+      "Type": [
+        "Grass",
+        "Poison"
+      ],
+      "id": 3
+    },
+    {
+      "Pokémon": "Charmander",
+      "Type": "Fire",
+      "id": 4
+    },
+    {
+      "Pokémon": "Charmeleon",
+      "Type": "Fire",
+      "id": 5
+    }
+  ]
+}
